@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to jschuhdodge's Git Hub Page
 
-You can use the [editor on GitHub](https://github.com/jschuhdodge/jschuhdodge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site lists out the Tableau Wed Data Connectors I have written and made available for use.  At this time I am working on the following Web Data Connector.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quality Payment Program Measures
 
-### Markdown
+The Quality Payment Program APIs allow for connecting to the following data:
+- Quality Measures
+- ACI Measures
+- Improvement Activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At this time, only the Improvement Activities list is complete.
 
-```markdown
-Syntax highlighted code block
+You can try it out by specifying the below URL in your Web Data Connector in Tableau (version 10.1 or newer).
 
-# Header 1
-## Header 2
-### Header 3
+[http://jschuhdodge.github.io/html/connector.html](http://jschuhdodge.github.io/html/connector.html)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jschuhdodge/jschuhdodge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As time permits I will work on improving this site and these connectors.
