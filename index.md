@@ -21,6 +21,8 @@ in this category. The results indicate details such as whether the measure contr
 score ("performance_score_weight") and whether the measure contributes an optional bonus ("optional_measure_for_bonus").
 
 ## Improvement Activities List
+WDC URL: [http://jschuhdodge.github.io/html/ImprovementActivitiesList_WDC.html](http://jschuhdodge.github.io/html/ImprovementActivitiesList_WDC.html)
+
 Improvement Activities is one of the four performance categories of the Quality Payment Program. It is a new category. The 
 improvement activities details list service returns all of the activities in this category. It takes no input and returns the entire 
 list of the improvement activities. The results can be grouped by subcategory and indicates details such as the weighting of the 
@@ -30,8 +32,7 @@ These APIs are not maintained by me, but by the Center for Medicare & Medicaid S
 these should be found on the [QPP](https://qpp.cms.gov/api/) API page.
 
 ## Using the Web Data Connector
-You can try it out by specifying the below URL in your Web Data Connector in Tableau (version 10.1 or newer).
-
-[http://jschuhdodge.github.io/html/connector.html](http://jschuhdodge.github.io/html/connector.html)*
+You can try it out by specifying the URL in your Web Data Connector in Tableau (version 10.1 or newer).  The url can be found under
+the heading for each API*.
 
 *At this time, only the Improvement Activities API has been made a connector.  I will work on this as time permits.
