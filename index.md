@@ -1,4 +1,4 @@
-## Welcome to jschuhdodge's Git Hub Page
+## Welcome!
 
 This site lists out the Tableau Wed Data Connectors I have written and made available for use.  At this time I am working on the following Web Data Connector.
 
