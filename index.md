@@ -1,6 +1,6 @@
 ## Welcome!
 
-This site lists out the Tableau Wed Data Connectors I have written and made available for use.  At this time I am working on the following Web Data Connector.
+This site lists out the Tableau Web Data Connectors I have written and made available for use.  At this time I am working on the following Web Data Connectors.
 
 ## Quality Payment Program Measures
 
