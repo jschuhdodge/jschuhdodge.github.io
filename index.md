@@ -10,11 +10,15 @@ Quality Payment Program site [QPP](https://qpp.cms.gov).
 This API available that will be available as Web Data Connectors are:
 
 ## Quality Measures List
+WDC URL:
+
 Quality is one of the four performance categories of the Quality Payment Program. It will replace the existing Physician 
 Quality Reporting System (PQRS). The quality measure details service returns the list of all measures in this category. The results 
 include the different identifier numbers used to refer to this measure in different indices: CMS, NQF, and Quality.
 
 ## ACI Measures List
+WDC URL:
+
 Advancing Care Information is one of the four performance categories of the Quality Payment Program. It will replace 
 the existing Meaningful Use program. The advancing care information measure details service returns the list of all measures 
 in this category. The results indicate details such as whether the measure contributes to the performance 
