@@ -4,6 +4,12 @@
 
 ![GitHub Logo](https://qpp.cms.gov/build_201612091113/images/hhs-logo.png)
 
+## Using the Web Data Connector
+
+You can try it out by specifying the URL in your Web Data Connector in Tableau (version 10.1 or newer).  The url can be found under the heading for each API.
+
+*At this time, only the Improvement Activities API has been made a connector.  I will work on this as time permits.
+
 This project is to build Web Data Connectors for the Quality Payment Program Measures that are available via the 
 Quality Payment Program site [QPP](https://qpp.cms.gov).
 
@@ -34,9 +40,3 @@ activity ("activity_weighting").
 
 These APIs are not maintained by me, but by the Center for Medicare & Medicaid Services.  Questions about the APIs or support for
 these should be found on the [QPP](https://qpp.cms.gov/api/) API page.
-
-## Using the Web Data Connector
-You can try it out by specifying the URL in your Web Data Connector in Tableau (version 10.1 or newer).  The url can be found under
-the heading for each API*.
-
-*At this time, only the Improvement Activities API has been made a connector.  I will work on this as time permits.
